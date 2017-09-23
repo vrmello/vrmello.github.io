@@ -1,2 +1,2 @@
 # vrmello.github.io
-Static websit
+Static website
