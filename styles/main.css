@@ -1,0 +1,24 @@
+.header{
+    background-color: #6AAFFF;
+    padding-bottom: 5px;
+}
+#bx1{
+    background-color: blue;
+}
+#bx2{
+    background-color: red;
+}
+#bx3{
+    background-color: green;
+}
+#bx4{
+    background-color: yellow;
+}
+.box{
+    height: 30vh;
+    
+}
+.box:hover{
+    transition-duration: .2s;
+    transform: scale(1.1); 
+}
